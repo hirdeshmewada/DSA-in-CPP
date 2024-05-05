@@ -100,5 +100,10 @@ for (int i = 5; i < 6; i++)
     cout<<"HI"<<endl; //
 }
 
+//##################### operator precedemce
+
+cout<<2*3/4+5<<endl;    //6
+cout<<(2*3)/4+5<<endl;     //6
+
 
 }
